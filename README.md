@@ -1,4 +1,4 @@
-# Final_Progamación2_Lucio_Alonso
+# Final_Programación2_Lucio_Alonso
 Proyecto para el examen FINAL realizado para la materia de Programación 2 de la carrera de Informática Aplicada.
 
 La consigna es la siguiente:
